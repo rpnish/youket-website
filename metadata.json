@@ -1,0 +1,8 @@
+{
+  "name": "Youket",
+  "description": "Premium ultra-minimal landing page for Youket, featuring an atmospheric particle typography experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
